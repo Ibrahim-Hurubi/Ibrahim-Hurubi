@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Ibrahim! 👋
 
-<!--
-**Ibrahim-Hurubi/Ibrahim-Hurubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I'm a **Computer Science Student** specializing in **Artificial Intelligence** at King Khalid University. I'm passionate about building AI-driven solutions that bridge the gap between technology and healthcare.
 
-Here are some ideas to get you started:
+- 🎓 **Education**: Senior CS Student (AI Track) @ KKU.
+- 🧠 **Graduation Project**: Deep Learning-Based Depression Detection from Brain MRI Analysis.
+- 🏆 **Achievements**: 2nd Place in Masrahthon & 3rd Place in Asir Innovates.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📜 Professional Certifications
+- 🏅 **IBM AI Product Manager Professional Certificate**
+- 🤖 **Artificial Intelligence Bootcamp** (FIHM.AI)
+- 💡 **Problem Solving and Decision Making** (Misk Foundation)
+- 📈 **Fundamentals of Digital Marketing** (Google)
+
+### 🛠️ Tech Stack
+- **Languages**: Python, Java
+- **AI/ML**: Deep Learning
+- **Web**: Next.js, React,
+
+### 📫 Connect with me:
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Ibrahim-Hurubi)
+[<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />](https://x.com/Ibrahim_Hurubi)
+
+---
+*“Building intelligent systems to make a real impact.”*
