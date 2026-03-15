@@ -17,10 +17,11 @@ I'm a **Computer Science Student** specializing in **Artificial Intelligence** a
 - **Languages**: Python, Java
 - **AI/ML**: Deep Learning
 - **Web**: Next.js, React
-
+  
 ### 📫 Connect with me:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Ibrahim-Hurubi)
 [<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />](https://x.com/Ibrahim_Hurubi)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:Ibrahim.Y.Hurubi@gmail.com)
 
 ---
 *“Building intelligent systems to make a real impact.”*
