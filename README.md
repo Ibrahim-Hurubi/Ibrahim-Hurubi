@@ -1,9 +1,9 @@
 # Hi there, I'm Ibrahim! 👋
 
 ### 🚀 About Me
-I'm a **Computer Science Student** specializing in **Artificial Intelligence** at King Khalid University. I'm passionate about building AI-driven solutions that bridge the gap between technology and healthcare.
+I'm a Computer Science Graduate specializing in Artificial Intelligence from King Khalid University. I'm passionate about building AI-driven solutions that bridge the gap between technology and healthcare. Recently, I gained hands-on experience in IT network infrastructure during my summer internship at the Armed Forces Hospital in the South.
 
-- 🎓 **Education**: Senior CS Student (AI Track) @ KKU.
+- 🎓 **Education**: BSc in Computer Science (AI Track) @ King Khalid University (Aug 2022 - Aug 2026).
 - 🧠 **Graduation Project**: Deep Learning-Based Depression Detection from Brain MRI Analysis.
 - 🏆 **Achievements**: 2nd Place in Masrahthon & 3rd Place in Asir Innovates.
 
@@ -17,6 +17,7 @@ I'm a **Computer Science Student** specializing in **Artificial Intelligence** a
 - **Languages**: Python, Java
 - **AI/ML**: Deep Learning
 - **Web**: Next.js, React
+- **IT & Networking**: Linux (Fedora), Cisco Packet Tracer, Distrobox, VLAN Testing.
   
 ### 📫 Connect with me:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Ibrahim-Hurubi)
