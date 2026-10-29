@@ -49,10 +49,6 @@ I'm a Computer Science Graduate specializing in Artificial Intelligence from Kin
 - 💡 **Problem Solving and Decision Making** (Misk Foundation)
 - 📈 **Fundamentals of Digital Marketing** (Google)
 
-### 📊 GitHub Stats
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahim-Hurubi&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Hurubi&layout=compact&hide_border=true)
-
 ### 📫 Connect with me:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Ibrahim-Hurubi)
 [<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />](https://x.com/Ibrahim_Hurubi)
