@@ -6,6 +6,43 @@ I'm a Computer Science Graduate specializing in Artificial Intelligence from Kin
 - 🎓 **Education**: BSc in Computer Science (AI Track) @ King Khalid University (Aug 2022 - Aug 2026).
 - 🧠 **Graduation Project**: Deep Learning-Based Depression Detection from Brain MRI Analysis.
 - 🏆 **Achievements**: 2nd Place in Masrahthon & 3rd Place in Asir Innovates.
+- 🔭 **Currently**: Building JARVIS, a bilingual Arabic/English voice assistant for Linux.
+- 💼 **Open to**: AI/ML Engineer and Software Developer opportunities.
+
+### 🧩 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🧠 [**MRI Depression Detection**](https://github.com/Ibrahim-Hurubi/mri-depression-detection) · [Live Demo](https://mri-depression-detection.vercel.app) | Web app that detects Major Depressive Disorder from 3D brain MRI and shows an explainable Grad-CAM heatmap over the scan. | Next.js · TypeScript · NiiVue |
+| ⚙️ [**MDD Detection Backend**](https://github.com/Ibrahim-Hurubi/mdd-detection-backend) | Multimodal late-fusion network (3D CNN + SE attention + clinical data) served through a FastAPI inference API. | PyTorch · MONAI · FastAPI · Docker |
+| 🎙️ [**JARVIS**](https://github.com/Ibrahim-Hurubi/jarvis-core) | Arabic/English voice assistant for Fedora (GNOME/Wayland) with wake word, speaker verification, local TTS and web search. | Python · OVOS · Qt/QML |
+
+### 🛠️ Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**AI / ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![MONAI](https://img.shields.io/badge/MONAI-00A86B?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-3D%20CNN%20%7C%20Grad--CAM-6E40C9?style=flat-square)
+
+**Web & Backend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**DevOps, IT & Networking**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20(Fedora)-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+- Distrobox · VLAN configuration & testing
 
 ### 📜 Professional Certifications
 - 🏅 **IBM AI Product Manager Professional Certificate**
@@ -13,12 +50,10 @@ I'm a Computer Science Graduate specializing in Artificial Intelligence from Kin
 - 💡 **Problem Solving and Decision Making** (Misk Foundation)
 - 📈 **Fundamentals of Digital Marketing** (Google)
 
-### 🛠️ Tech Stack
-- **Languages**: Python, Java
-- **AI/ML**: Deep Learning
-- **Web**: Next.js, React
-- **IT & Networking**: Linux (Fedora), Cisco Packet Tracer, Distrobox, VLAN Testing.
-  
+### 📊 GitHub Stats
+![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahim-Hurubi&show_icons=true&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Hurubi&layout=compact&hide_border=true)
+
 ### 📫 Connect with me:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Ibrahim-Hurubi)
 [<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />](https://x.com/Ibrahim_Hurubi)
