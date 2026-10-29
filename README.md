@@ -13,8 +13,8 @@ I'm a Computer Science Graduate specializing in Artificial Intelligence from Kin
 
 | Project | Description | Stack |
 |---|---|---|
-| 🧠 [**MRI Depression Detection**](https://github.com/Ibrahim-Hurubi/mri-depression-detection) · [Live Demo](https://mri-depression-detection.vercel.app) | Web app that detects Major Depressive Disorder from 3D brain MRI and shows an explainable Grad-CAM heatmap over the scan. | Next.js · TypeScript · NiiVue |
-| ⚙️ [**MDD Detection Backend**](https://github.com/Ibrahim-Hurubi/mdd-detection-backend) | Multimodal late-fusion network (3D CNN + SE attention + clinical data) served through a FastAPI inference API. | PyTorch · MONAI · FastAPI · Docker |
+| 🧠 [**MRI Depression Detection**](https://github.com/Ibrahim-Hurubi/mri-depression-detection) · [Live Demo](https://mri-depression-detection.vercel.app) | Team graduation project: detects Major Depressive Disorder from 3D brain MRI + clinical data (**96.8% accuracy, AUC 0.994** on held-out test set) with an explainable Grad-CAM heatmap over the scan. | Next.js · TypeScript · NiiVue |
+| ⚙️ [**MDD Detection Backend**](https://github.com/Ibrahim-Hurubi/mdd-detection-backend) | Training pipeline (autoencoder pretraining, MixUp, focal loss) and FastAPI inference API for the multimodal 3D CNN + SE attention model. | PyTorch · MONAI · FastAPI · Docker |
 | 🎙️ [**JARVIS**](https://github.com/Ibrahim-Hurubi/jarvis-core) | Arabic/English voice assistant for Fedora (GNOME/Wayland) with wake word, speaker verification, local TTS and web search. | Python · OVOS · Qt/QML |
 
 ### 🛠️ Tech Stack
